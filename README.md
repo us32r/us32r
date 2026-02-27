@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**us32r/us32r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm h4xxe
 
-Here are some ideas to get you started:
+### 🚀 They fear the Rayt!
+#### 🔗 us32r @github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+> 🤖 **Software Automation.**
+> 💻 **Learning Web development.**
+
+<br />
+
+[![Python](https://skillicons.dev/icons?i=python)](https://regalyngg.com/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://regalyngg.com/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://regalyngg.com/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://regalyngg.com/)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://regalyngg.com/)
+
+---
+
+</div>
