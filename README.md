@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm us32r
 
-### 🚀 They fear the Rayt!
+### 🚀 Better known as Rayt!!
 #### 🔗 us32r @github
 
 <br />
