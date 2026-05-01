@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=us32r&style=flat-square&color=3b82f6&label=PROFILE+VIEWS) &nbsp; [![Português](https://img.shields.io/badge/Português-PT-3b82f6?style=flat-square)](./README.md) &nbsp; [![English](https://img.shields.io/badge/English-EN-3b82f6?style=flat-square)](./README-EN.md)
+![Profile Views](https://komarev.com/ghpvc/?username=us32r&style=flat-square&color=3b82f6&label=PROFILE+VIEWS&base=1770) &nbsp; [![Português](https://img.shields.io/badge/Português-PT-3b82f6?style=flat-square)](./README.md) &nbsp; [![English](https://img.shields.io/badge/English-EN-3b82f6?style=flat-square)](./README-EN.md)
 
 </div>
 
