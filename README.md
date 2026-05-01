@@ -13,8 +13,7 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://github.com/us32r)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=3b82f6)](https://portifolioindexjoao.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://github.com/us32r) &nbsp; &nbsp; [![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=3b82f6)](https://portifolioindexjoao.vercel.app/)
 
 </div>
 
@@ -24,35 +23,37 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=us32r&style=flat-square&color=3b82f6&label=PROFILE+VIEWS)
 
+[![Português](https://img.shields.io/badge/Português-PT-3b82f6?style=flat-square)](./README.md) &nbsp; [![English](https://img.shields.io/badge/English-EN-3b82f6?style=flat-square)](./README-EN.md)
+
 </div>
 
 ---
 
 <img align="right" width="240px" src="./char.jpg" alt="Profile Image"/>
 
-<code>> print("Hello World! I am John.")</code>
+**Sou um Profissional Frontend & Desenvolvedor Backend em Treinamento**
 <br/>
-**I'm a Frontend Professional & Backend Developer in Training**
+<code>> print("Hello World! Eu sou o John.")</code>
 
-> *"I can do all things through Christ who strengthens me" (Philippians 4:13)*
+> *"Tudo posso naquele que me fortalece" (Filipenses 4:13)*
 
-I am currently deepening my studies in **Python** & **Java** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios and web tools.
+Atualmente estou aprofundando meus estudos em **Python** & **Java** e **desenvolvimento web**, aplicando esse conhecimento em projetos pessoais reais — bots de automação, portfólios e ferramentas web.
 
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** and am currently exploring new areas.
+Também tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** e estou explorando novas áreas.
 
 ```
-◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
+◈  Classe     →  Aprendiz Backend / Full-Stack
+◈  Origem     →  Brasil 🇧🇷
+◈  Aliança    →  Open Source
+◈  Build      →  INT / DEX
+◈  Status     →  Hunter. Recusa-se a desistir.
 ```
 
 <br clear="right"/>
 
 ---
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">Tecnologias</h2>
 
 <div align="center">
 
@@ -72,7 +73,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 ---
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">Estatísticas</h2>
 
 <div align="center">
 
@@ -87,7 +88,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 ---
 
-<h2 align="center">📜 Contribution Graph</h2>
+<h2 align="center">📜 Gráfico de Contribuições</h2>
 
 <div align="center">
 
@@ -97,22 +98,11 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 ---
 
-<h2 align="center">🕯️ Bonfires Lit — Education</h2>
-
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | Systems Analysis & Development | 🔄 In Progress |
-| ◈ | AWS Tech Journey — Santander | 🔄 In Progress |
-| ◈ | Microsoft AI-900 Certification | ✅ Complete |
-| ◈ | GenAI & Data Bootcamp — DIO | ✅ Complete |
-
----
-
-<h2 align="center">🗡️ Featured Projects</h2>
+<h2 align="center">🗡️ Projetos em Destaque</h2>
 
 <div align="center">
 
-[![us32r](https://readme-stats-fast.vercel.app/api/pin/?username=us32r&repo=us32r&cache_seconds=1800&theme=dark&title_color=3b82f6&text_color=ffffff&bg_color=000000&border_color=2a2a2a&icon_color=3b82f6)](https://github.com/us32r/us32r)
+[![Portfolio](https://img.shields.io/badge/Acessar-Meu_Portfólio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolioindexjoao.vercel.app/)
 
 </div>
 
@@ -120,6 +110,6 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <div align="center">
 
-*† Be the best of yourself †*
+*† Seja a melhor versão de si mesmo †*
 
 </div>
