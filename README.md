@@ -21,9 +21,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=us32r&style=flat-square&color=3b82f6&label=PROFILE+VIEWS)
-
-[![Português](https://img.shields.io/badge/Português-PT-3b82f6?style=flat-square)](./README.md) &nbsp; [![English](https://img.shields.io/badge/English-EN-3b82f6?style=flat-square)](./README-EN.md)
+![Profile Views](https://komarev.com/ghpvc/?username=us32r&style=flat-square&color=3b82f6&label=PROFILE+VIEWS) &nbsp; [![Português](https://img.shields.io/badge/Português-PT-3b82f6?style=flat-square)](./README.md) &nbsp; [![English](https://img.shields.io/badge/English-EN-3b82f6?style=flat-square)](./README-EN.md)
 
 </div>
 
@@ -81,8 +79,7 @@ Também tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **P
 
 <br/><br/>
 
-<img height="165em" src="https://readme-stats-fast.vercel.app/api?username=us32r&cache_seconds=1800&show_icons=true&theme=dark&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&bg_color=000000&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=us32r&cache_seconds=1800&layout=compact&theme=dark&title_color=3b82f6&text_color=ffffff&bg_color=000000&border_color=2a2a2a"/>
+<img height="150px" src="https://readme-stats-fast.vercel.app/api?username=us32r&cache_seconds=1800&show_icons=true&theme=dark&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&bg_color=000000&border_color=2a2a2a&count_private=true"/> &nbsp; <img height="150px" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=us32r&cache_seconds=1800&layout=compact&theme=dark&title_color=3b82f6&text_color=ffffff&bg_color=000000&border_color=2a2a2a"/>
 
 </div>
 
