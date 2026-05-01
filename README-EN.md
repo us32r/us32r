@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Always+be+fair.;%22Tudo+posso+naquele+que+me+fortalece%22+(Filipenses+4:13)" alt="Typing SVG"/>
 </div>
 
 <br/>
