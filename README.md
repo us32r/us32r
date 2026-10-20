@@ -55,16 +55,13 @@ Também tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **P
 
 <div align="center">
 
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=3b82f6)
+![CSS](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=3b82f6)
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3b82f6)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=3b82f6)
-![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=3b82f6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=3b82f6)
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=3b82f6)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=3b82f6)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=3b82f6)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=3b82f6)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=3b82f6)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws&logoColor=3b82f6)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6)
 
 </div>
@@ -80,16 +77,6 @@ Também tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **P
 <br/><br/>
 
 <img height="150px" src="https://readme-stats-fast.vercel.app/api?username=us32r&cache_seconds=1800&show_icons=true&theme=dark&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&bg_color=000000&border_color=2a2a2a&count_private=true"/> &nbsp; <img height="150px" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=us32r&cache_seconds=1800&layout=compact&theme=dark&title_color=3b82f6&text_color=ffffff&bg_color=000000&border_color=2a2a2a"/>
-
-</div>
-
----
-
-<h2 align="center">📜 Gráfico de Contribuições</h2>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=us32r&bg_color=000000&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=001133&hide_border=false&border_color=2a2a2a&title_color=3b82f6)](https://github.com/us32r)
 
 </div>
 
